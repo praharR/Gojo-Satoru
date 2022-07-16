@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['94762096939']
+global.premium = ['94762096939']
+global.ownernomer = '94762096939'
+global.ownername = '®[̲̅P][̲̅R][̲̅A][̲̅H][̲̅A][̲̅R][̲̅S][̲̅H][̲̅A]'
+global.botname = '£€¥ [̲̅P][̲̅R][̲̅A][̲̅H][̲̅A][̲̅R][̲̅S][̲̅H][̲̅A] [̲̅M][̲̅D] [̲̅B][̲̅O][̲̅T] £€¥'
+global.footer = '©🅿🆁🅰🅷🅰🆁🆂🅷🅰 🅼🅳 🅱🅾🆃.'
+global.ig = 'https://youtube.com/channel/UCgUPf1cA3yany_9_YPBpvvg'
+global.region = 'Ａｓｉａ/ＣＯＬＯＭＢＯ'
+global.sc = 'https://youtube.com/channel/UCgUPf1cA3yany_9_YPBpvvg'
+global.myweb = 'https://youtube.com/channel/UCgUPf1cA3yany_9_YPBpvvg'
+global.packname = '🅿🆁🅰🅷🅰🆁🆂🅷🅰 🅼🅳 🅱🅾🆃'
+global.author = '🅿🆁🅰🅷🅰🆁🆂🅷🅰 🅳🅴🆆🅼🅸🅽🅰'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'චුට්ටක් හිටහන් ඈ👊👊...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
